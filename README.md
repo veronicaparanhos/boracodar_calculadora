@@ -12,4 +12,4 @@ Este projeto foi incialmente feito em HTML e CSS para o desafio #boraCodar da Ro
 
 ⚠️ Como desafio eu resolvi implementar a parte dinâmica com JavaScript. <br />
 
-- Link para a página: https://veronicaparanhos.github.io/
+[Link para a página](https://veronicaparanhos.github.io/boracodar_calculadora/)
